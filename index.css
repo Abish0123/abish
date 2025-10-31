@@ -1937,6 +1937,7 @@
       .process-item { width: 40%; }
       .process-description { max-height: 100px; opacity: 1; margin-top: 15px; }
       #works { display: none; }
+      .section-decorator { display: none; }
   }
   
   @media (max-width: 768px) {
